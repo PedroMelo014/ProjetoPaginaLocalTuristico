@@ -1,4 +1,16 @@
 
+footer {
+    max-width: 1120px;  /* igual ao #page */
+    margin: 40px auto 0; /* centraliza horizontalmente */
+    text-align: center;
+    padding: 20px 0;
+    text-align: justify;
+}
+
+
+footer p{ 
+  text-align: center;
+}
 
 #page{ 
 box-sizing: border-box ;
@@ -36,19 +48,25 @@ margin-bottom: 104px;
 #amantes{ 
    color: #E1624F;
   margin-bottom: 20px;
+
 }
 
 
 h2{ 
   
   margin-top: -17px ;
-   margin-bottom: 8px;
-
+ margin-bottom: 8px;
+  
 }
 
 p{ 
   text-align: left;
  max-width: 1000px;
+ color:#333333;
 }
 
+
+ul{ 
+  color: blue;
+}
 
